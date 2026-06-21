@@ -25,4 +25,4 @@
 - 标签体系应包含 **多维度组合 + 人工抽检闭环**
 
 ## 可视化
-![特征分布箱线图](plots/feature_distribution_by_mood.png)
+![特征分布箱线图](output.png)
